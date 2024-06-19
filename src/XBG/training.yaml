@@ -1,0 +1,43 @@
+# Hyperparameters
+model: XBGdv2_2
+batch_size:  64
+hidden_size:  512
+fusion_kernel_size: 7
+drop_rate:  0.15
+img_size:  224
+learning_rate:  0.0003
+num_epochs:  20
+steps: 16
+lookahead:  10
+subsampling: 3
+augmentations: True
+velocities: False
+fts: False
+currents: True
+depth: True
+rgb: True
+threshold: 4000
+control_mode: upper_body
+path: /data/Exteroceptive-behaviour-generation
+random_state: 0
+records:
+  - robot_logger_device_2023_11_13_18_19_35@30@560 # Follow
+  - robot_logger_device_2023_11_13_17_34_45@300@420 # Mixed
+  - robot_logger_device_2023_11_13_18_05_09@890@ # Handshake
+  - robot_logger_device_2023_11_13_19_05_59@100@ # HandWave
+  - robot_logger_device_2024_02_13_17_29_36@@ # Walking
+  - robot_logger_device_2024_02_13_17_04_57@@ # Walking
+  - robot_logger_device_2024_02_13_16_57_36@37@ # Walking
+  - robot_logger_device_2024_02_13_16_54_30@@ # Walking
+  - robot_logger_device_2024_02_13_16_47_39@@ # Walking
+  - robot_logger_device_2024_02_13_16_37_20@45@ # Walking
+  - robot_logger_device_2024_03_07_09_59_55@50@640 # payload
+  - robot_logger_device_2024_03_08_09_16_45@310@ # payload
+  - robot_logger_device_2024_03_08_09_32_01@130@ # payload
+  - robot_logger_device_2024_03_08_09_54_41@@ # payload
+  - robot_logger_device_2024_05_10_13_17_15@15@389 # Mixed
+  - robot_logger_device_2024_05_10_13_08_01@74@627 # Mixed
+  - robot_logger_device_2024_05_10_12_51_37@55@477 # Mixed
+val_records:
+  - robot_logger_device_2023_11_13_19_05_59@330@360 # Test
+  # - robot_logger_device_2023_11_13_19_05_59@@100 

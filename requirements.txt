@@ -1,0 +1,14 @@
+name: xbgenv
+channels:
+  - conda-forge
+dependencies:
+  # Python
+  - opencv
+  - pandas
+  - matplotlib
+  - torchview
+  - ultralytics
+  - wandb
+  - pyyaml
+  - h5py
+  - torchvision
