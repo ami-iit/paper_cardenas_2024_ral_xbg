@@ -23,7 +23,7 @@ C. Cardenas-Perez, G. Romualdi, M. Elobaid, S. Dafarra, G. L'Erario, S. Traversa
 
 <div align="center">
   <a href=""><b>Installation</b></a> |
-  <a href=""><b>Paper</b></a> |
+  <a href="https://arxiv.org/pdf/2406.15833"><b>Paper</b></a> |
   <a href="https://github.com/ami-iit/xbg/raw/main/assets/videos/xbg_video.mov"><b>Experiments Video</b></a> |
   <a href="https://ami-iit.github.io/xbg/"><b>Website</b></a>
 </div>
