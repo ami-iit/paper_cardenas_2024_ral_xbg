@@ -24,7 +24,7 @@ C. Cardenas-Perez, G. Romualdi, M. Elobaid, S. Dafarra, G. L'Erario, S. Traversa
 <div align="center">
   <a href=""><b>Installation</b></a> |
   <a href="https://arxiv.org/pdf/2406.15833"><b>Paper</b></a> |
-  <a href="https://github.com/ami-iit/xbg/raw/main/assets/videos/xbg_video.mov"><b>Experiments Video</b></a> |
+  <a href="https://www.youtube.com/watch?v=zuFNEG62y6I"><b>Experiments Video</b></a> |
   <a href="https://ami-iit.github.io/xbg/"><b>Website</b></a>
 </div>
 
@@ -44,7 +44,7 @@ If you find the work useful, please consider citing:
 ```bibtex
 @ARTICLE{,
   author={Cardenas-Perez, Carlos and Romualdi, Giulio and Elobaid, Mohammed and Dafarra, Stefano and L'erario, Giuseppe and Traversaro, Silvio and Morerio, Pietro and Del Bue, Alessio and Pucci, Daniele},
-  journal={IEEE Robotics and Automation Letters},
+  journal={Arxiv},
   title={},
   year={2024},
   volume={},
